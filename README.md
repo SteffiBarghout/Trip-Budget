@@ -1,3 +1,3 @@
-# Trip-Budget
+# Trip Budget
 ## by Anna Vu and Steffi Wellington
 

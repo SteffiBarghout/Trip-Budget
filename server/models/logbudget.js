@@ -14,14 +14,14 @@ module.exports = function (sequelize, DataTypes) {
                 len: [1],
             },
         },
-        airfare: {
+        airline: {
             type: DataTypes.STRING,
             allowNull: false,
             validate: {
                 len: [1],
             },
         },
-        airfarecost: {
+        airlinecost: {
             type: DataTypes.INTEGER,
             allowNull: false,
             validate: {
